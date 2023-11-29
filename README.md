@@ -40,7 +40,7 @@ o	Moves enemies towards the player at a speed of 3.
 o	Keeps track of the enemy health.
 o	Reduces it when the enemy is shot.
 o	Destroys the GameObject when the health <= 0.
--	ShootingScript
+-	ShootingScript (doesn't work)
 o	Shoots bullets when left mouse button is clicked.
 o	Checks time between shots and only allows shots every 0.5 seconds.
 o	Checks if bullet collides with enemy and reduces its health if it does.

@@ -1,4 +1,4 @@
-# PIV-shooter-miniproject-2
+# PIV-shooter-Mini-Project-2
 
 Programmering af Interaktive 3D Verdener - miniproject
 
